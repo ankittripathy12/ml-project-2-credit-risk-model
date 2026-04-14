@@ -7,3 +7,4 @@ imbalanced-learn==0.11.0
 joblib==1.3.2
 setuptools
 wheel
+protobuf==3.20.3
